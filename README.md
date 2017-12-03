@@ -8,6 +8,7 @@ Please make password.py as follow.
 ```password.py:python
 url = "URL of your redmine"
 api_key = "API key that you have"
+slack_webhook_url = "Webhook api url"
 ```
 
 # Maintainer
