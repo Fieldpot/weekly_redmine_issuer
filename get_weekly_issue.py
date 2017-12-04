@@ -4,7 +4,7 @@ import requests
 import json
 from collections import Counter
 from datetime import date, datetime, timedelta
-from password import *
+from utils import *
 from redminelib import Redmine
 redmine = Redmine(redmine_url, key=api_key)
 
